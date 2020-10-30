@@ -4,6 +4,8 @@ A vibrant performer and disciplined person with a hunger for success in the comp
 After done being an Undergrad Engineering student of the Junior (3rd) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies.
 I am very fond of reading articles and stories, journals and also I am fond of Art.
 
+I am new to Github, would love to contribute from now.
+
 Here are some ideas to get you started:
 
 - 🎓 Studies Computer Science and Engineering
