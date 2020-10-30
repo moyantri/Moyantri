@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**moyantri/Moyantri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A vibrant performer and disciplined person with a hunger for success in the computer software industry.
+After done being an Undergrad Engineering student of the Junior (3rd) Year, I love to solve problems through developing software. I'm always exploring new ways and technologies.
+I am very fond of reading articles and stories, journals and also I am fond of Art.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studies Computer Science and Engineering
+- 📖 Learning Web Development
+- 😢 Strugling with Competitive coding
+- 🔭 I’m currently working on basic AWS data pipeline
+- 👯 I’m looking to collaborate on ML projects
+- 🤔 I’m looking for help with data analysis
+- 📫 How to reach me: linkedln
+- 😄 Pronouns: Coder | Tech lover | Music Lover | Geek | Bookworm | passion for singing| sketch and doodle and fabric artist|
+- ⚡ Favourite fact: Light must come from inside. You cannot ask the darkness to leave; you must turn on the light.
+-->✍️ Writes and maintaines blogs, love to write on technical contents. Check out: https://blog.spieosauemk.team/
