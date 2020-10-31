@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🎓 Studies Computer Science and Engineering
 - 📖 Learning Web Development
 - 😢 Strugling with Competitive coding
-- 🔭 I’m currently working on basic AWS data pipeline
+- 🔭 I’m currently working on big data text processing pipeline in Cloud Dataflow
 - 👯 I’m looking to collaborate on ML projects
 - 🤔 I’m looking for help with data analysis
 - 📫 How to reach me: linkedln
