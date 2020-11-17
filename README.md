@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Coder | Tech lover | Music Lover | Geek | Bookworm | passion for singing| sketch and doodle and fabric artist|
 - ⚡ Favourite fact: Light must come from inside. You cannot ask the darkness to leave; you must turn on the light.
 -->✍️ Writes and maintaines blogs, love to write on technical contents. Check out: https://blog.spieosauemk.team/
+
+
+<img src= "https://github-readme-stats.vercel.app/api?username=moyantri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
