@@ -5,6 +5,8 @@ After done being an Undergrad Engineering student of the Junior (3rd) Year, I lo
 I am very fond of reading articles and stories, journals and also I am fond of Art.
 
 I am new to Github, would love to contribute from now.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
 Here are some ideas to get you started:
 
