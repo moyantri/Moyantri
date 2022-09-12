@@ -10,7 +10,7 @@ I am new to Github, would love to contribute from now.
 
 Here are some ideas to get you started:
 
-- 🎓 Studies Computer Science and Engineering
+- 🎓 Computer Science and Engineering Graduate
 - 📖 Learning Web Development
 - 😢 Strugling with Competitive coding
 - 🔭 I’m currently working on big data text processing pipeline in Cloud Dataflow
